@@ -1,6 +1,6 @@
 # OpenAI Agents SDK - Class 1
 
-**Name:** Muhammad Ali Akmal
+**Name:** Muhammad Umer Akmal
 
 A minimal setup of the [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) running a single agent.
 
