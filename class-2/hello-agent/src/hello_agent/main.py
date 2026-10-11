@@ -24,7 +24,7 @@ def main() -> None:
     )
     result = Runner.run_sync(
         assistant,
-        "Write a haiku about recursion in programming.",
+        "agentic ai is worth it or not in 2026",
     )
     print(result.final_output)
 
